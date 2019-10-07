@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="poster_of_popular">Постер к фильму</string>
+    <string name="most_popular">Самые популярные</string>
+    <string name="most_top_raited">Самые рейтинговые</string>
+    <string name="most_popularity">Самые популярные</string>
+    <string name="most_raited">Наиболее рейтинговые</string>
+    <string name="poster_of_movie">Постер к фильму</string>
+    <string name="add_to_favourite">Добавлено в избранное</string>
+</resources>
